@@ -6,3 +6,4 @@
 - Eduardo Ferreira de Souza
 - Saulo Fernandes Antonio da Costa
 - Jean Carlos Gomes Martins
+- Leandro Alves
