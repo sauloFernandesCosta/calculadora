@@ -1,6 +1,7 @@
-# Mini curso de introduÁ„o ao controle de Vers„o
+# Mini curso de introdu√ß√£o ao controle de Vers√£o
 
 ## Lista de alunos que participaram
 
-- Allan GonÁalves da Cruz
+- Allan Gon√ßalves da Cruz
 - Eduardo Ferreira de Souza
+- Saulo Fernandes Antonio da Costa
